@@ -11,4 +11,9 @@ app.include_router(items.router)
 # Código que se añade, ALEJANDRO A
 @app.get("/status")
 def version():
-    return {"status": "Alcántara Crugeiras, Alejandro - v.xx"}
+    return {"status": "Alcántara Crugeiras, Alejandro - v.1"}
+
+
+
+
+

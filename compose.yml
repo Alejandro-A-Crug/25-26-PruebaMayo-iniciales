@@ -1,7 +1,0 @@
-
-services:
-  examen:
-    image: xxxxxx/yyyyyyyyyy
-    ports:
-      - 80:8000
-    restart: always
