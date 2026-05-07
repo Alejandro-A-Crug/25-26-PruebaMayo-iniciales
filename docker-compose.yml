@@ -1,0 +1,7 @@
+
+services:
+  examen:
+    image: alexa453/api-alcantara:latest
+    ports:
+      - 80:8000
+    restart: always
