@@ -13,7 +13,3 @@ app.include_router(items.router)
 def version():
     return {"status": "Alcántara Crugeiras, Alejandro - v.1"}
 
-
-
-
-
